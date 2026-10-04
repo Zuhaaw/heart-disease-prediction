@@ -1,0 +1,5 @@
+# Extra packages needed only to run the Jupyter notebook locally
+-r requirements.txt
+matplotlib
+seaborn
+jupyter
